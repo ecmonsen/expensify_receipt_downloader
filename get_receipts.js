@@ -53,7 +53,7 @@ async function scrapeReceipt(jline, page) {
 
   let j = JSON.parse(jline);
 
-  // j = { "url" : "xxxx", "transaction_id": "xxxx", "receipt_file": "xxxx",
+  // j = { "url" : "xxxx", "receipt_file": "xxxx"}
   let download_btn;
   try {
     console.log(JSON.stringify(j));
