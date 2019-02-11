@@ -1,0 +1,8 @@
+.idea/
+*.csv
+*.jpg
+*.pdf
+*.png
+node_modules/
+*.json
+**/*~
